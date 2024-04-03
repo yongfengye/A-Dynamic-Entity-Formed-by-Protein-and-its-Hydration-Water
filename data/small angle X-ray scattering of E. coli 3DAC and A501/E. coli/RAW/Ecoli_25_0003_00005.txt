@@ -1,0 +1,11 @@
+Description:                            Ecoli_25
+Code:                                   
+Concentration [mg/ml]:                  
+Run Number:                             3
+Frame Number:                           5
+Exposure time [s]:                      1.0
+SAXS Position:                          saxs
+Timestamp:              	        2023-11-05  22:19:35.320894
+SR Current:                             210.58178737mA
+Transmitted_Beam:                       0.821651450476
+Wavelength [nm]:                        0.1033nm

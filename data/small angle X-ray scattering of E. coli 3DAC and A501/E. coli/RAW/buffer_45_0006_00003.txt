@@ -1,0 +1,11 @@
+Description:                            buffer_45
+Code:                                   
+Concentration [mg/ml]:                  0
+Run Number:                             6
+Frame Number:                           3
+Exposure time [s]:                      1.0
+SAXS Position:                          saxs
+Timestamp:              	        2023-11-05  22:46:15.581564
+SR Current:                             210.133663422mA
+Transmitted_Beam:                       0.822108326667
+Wavelength [nm]:                        0.1033nm

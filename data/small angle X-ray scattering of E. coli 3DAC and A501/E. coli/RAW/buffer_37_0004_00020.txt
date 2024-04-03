@@ -1,0 +1,11 @@
+Description:                            buffer_37
+Code:                                   
+Concentration [mg/ml]:                  0
+Run Number:                             4
+Frame Number:                           20
+Exposure time [s]:                      1.0
+SAXS Position:                          saxs
+Timestamp:              	        2023-11-05  22:30:14.595298
+SR Current:                             210.639876467mA
+Transmitted_Beam:                       0.833378227619
+Wavelength [nm]:                        0.1033nm
